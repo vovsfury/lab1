@@ -1,0 +1,12 @@
+﻿  lab1UnitTests.cpp
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1\rbtree.h(420,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(52,22): warning C4101: invalid_argument: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(93,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(109,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(135,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(152,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(168,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(184,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\lab1UnitTests\lab1UnitTests.cpp(200,22): warning C4101: runtime_error: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1\rbtree.h(376): warning C4715: rbtree::getNode: значение возвращается не при всех путях выполнения
+  lab1UnitTests.vcxproj -> C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab1\lab1UnitTests\Debug\lab1UnitTests.dll
